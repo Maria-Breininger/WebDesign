@@ -1,0 +1,92 @@
+.shapka {
+    display:flex;
+    width: 1024;
+    text-align: center;
+    padding: 5px;
+}
+
+.imya {
+    color: rgb(55, 135, 255);
+}
+
+.ssilki {
+    text-align: right;
+    width: 10000px ;
+    color: rgb(134, 134, 134);
+}
+
+.osnova {
+    display:flex;
+    width: 1024;
+    padding: 5px;
+}
+
+.tekst {
+    padding: 5px;
+    margin: 60px 0px 80px 15px;
+}
+
+.first_text {
+    background-color: rgb(55, 135, 255);
+    color: white;
+    padding: 3px;
+    border-radius: 7.5px;
+    width: 285px;
+}
+
+.secound_text {
+    font-size: 39px;
+    color: rgb(134, 134, 134);
+    padding: 20px 0px 0px 0px;
+}
+
+.third_text {
+    color: rgb(55, 135, 255);
+    font-size: 60px;
+    padding: 3px 0px 0px 0px;
+}
+
+.fourth_text {
+    color: rgb(55, 135, 255);
+    font-size: 60px;
+}
+
+.knopki {
+    display:flex;
+    margin: 20px 0px 10px 0px;
+    padding: 7px;
+}
+
+.knopka1 {
+    margin: 5px 30px 5px 0px;
+    padding: 20px 40px;
+    background-color: rgb(55, 135, 255);
+    color: #ffff;
+    border-radius: 15px;
+}
+
+.knopka2 {
+    margin: 5px 10px 5px 0px;
+    padding: 20px 40px;
+    border: 1px solid #000000;
+    border-radius: 15px;
+}
+
+.photo {
+    text-align: right;
+    margin: 0px 0px 0px 70px;
+}
+
+footer {
+    text-align: center;
+    background-color: #f1f1f1;
+}
+
+h1 {
+    color: rgb(55, 135, 255);
+}
+
+.znachki {
+    margin: 20px 0px 0px 0px;
+}
+
